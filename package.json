@@ -38,7 +38,7 @@
       "electronInstallerRedhat": {},
       "github_repository": {
         "owner": "Rawnly",
-        "name": "rawnly/snahp-downloader"
+        "name": "rawnly/snahp-tool"
       },
       "windowsStoreConfig": {
         "packageName": "",
